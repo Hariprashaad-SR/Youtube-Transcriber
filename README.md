@@ -1,6 +1,6 @@
 # Tutorial: Creating Environment Files and Executing Streamlit for a YouTube Transcriber Project
 
-In this tutorial, we will guide you through the process of setting up environment files and executing a Streamlit application for a YouTube transcriber project.
+In this tutorial, I will guide you through the process of setting up environment files and executing a Streamlit application for a YouTube transcriber project.
 
 ## Prerequisites
 
@@ -68,4 +68,4 @@ Replace `your_youtube_api_key` with your actual YouTube API key, which you can o
 
 5. Enter a YouTube video URL in the input field and click Enter. The transcribed text of the video should appear on the page. You can even download it !!!
 
-That's it! You've successfully set up environment files and executed a Streamlit application for your YouTube transcriber project.
+That's it! You've successfully set up environment files and executed a Streamlit application for the YouTube transcriber project.
